@@ -1,4 +1,4 @@
-setwd("~/Desktop/Course Stuff/Getting and Cleaning Data/Assignment")
+
 
 ##The following zip file needs to be downloaded and unzipped
 ##"https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
