@@ -69,6 +69,6 @@ Extracts only the measurements on the mean and standard deviation for each measu
 Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
 
-The code has been commented with implementatiosn issues
+The code has been commented with implementation issues
 
 
